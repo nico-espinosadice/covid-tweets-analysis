@@ -7,9 +7,9 @@ Nico Espinosa Dice
 *May, 2020*
 
 ## About
-For my final project in Math189Z, I will conduct sentiment analysis on Tweets regarding the Covid-19 pandemic. In doing so, I hope to gain an understanding, and possibly a predictive method, of determining how the severity of the virus spreads geographically, using the sentiment of Tweets from that region.
+For my final project in Math189Z, I conducted sentiment analysis on Tweets regarding the Covid-19 pandemic. In doing so, I hoped to gain an understanding, and possibly a predictive method, of determining how the severity of the virus spreads geographically, using the sentiment of Tweets from that region.
 
-The goal of sentiment analysis is to determine the attitude and emotion present in a given form of communication. Sentiment analysis applies natural language processing techniques in order to do so.
+(The goal of sentiment analysis is to determine the attitude and emotion present in a given form of communication. Sentiment analysis applies natural language processing techniques in order to do so.)
 
 ## Writing
 ### Final Paper
