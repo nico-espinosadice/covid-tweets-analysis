@@ -7,7 +7,7 @@ Nico Espinosa Dice
 *May, 2020*
 
 ## About
-For my final project in Math189Z, I conducted sentiment analysis on Tweets regarding the Covid-19 pandemic. In doing so, I hoped to gain an understanding, and possibly a predictive method, of determining how the severity of the virus spreads geographically, using the sentiment of Tweets from that region.
+For my final project in Math189Z, I conducted sentiment analysis on Tweets regarding the Covid-19 pandemic using a Naive Bayes classifier. Through this project, I examined the relationship between the severity of the virus and its impact on the public's reaction to it, particularly on social media. In doing so, I hoped to develop an understanding of how the public's response – particularly the hysteria many felt as the pandemic approached their area – is correlated to the actual virus's spread.
 
 (The goal of sentiment analysis is to determine the attitude and emotion present in a given form of communication. Sentiment analysis applies natural language processing techniques in order to do so.)
 
